@@ -1,7 +1,7 @@
 import { useState } from "react";
 import styles from "./styles.module.css";
 import { AiFillEye, AiFillEyeInvisible } from "react-icons/ai";
-import createPwd from './../../hooks/createPwd'
+import createPwd from '../../hooks/createPwd'
 
 
 
